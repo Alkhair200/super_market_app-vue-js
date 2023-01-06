@@ -1,0 +1,12 @@
+.btn-op{
+	padding: 5px 5px !important;
+	margin: 2px 2px !important;
+}
+
+.table th, .table td{
+	padding: 5px !important;
+}
+
+.swal2-popup{
+	font-size: 12px !important;
+}
